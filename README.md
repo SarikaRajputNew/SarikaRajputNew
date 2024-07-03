@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarikarajputnew" alt="sarikarajputnew" /></a> </p>
 
-- 🔭 I’m currently working on **AI Project**
+- 🔭 I’m currently working on **ASP.NET Core Project**
 
 - 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **ASP.NET**
 
-- 💬 Ask me about **react, dot Net**
+- 💬 Ask me about **react, ASP.Net Core MVC Angular, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
